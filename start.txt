@@ -1,6 +1,1 @@
 Test git quick start decom
-<<<<<<< HEAD
-This is re-adding new branch
-=======
-re-adding new branch
->>>>>>> very-bad
